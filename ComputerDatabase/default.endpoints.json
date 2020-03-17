@@ -1,0 +1,13 @@
+{
+  "endpoints": [
+    {
+      "active": true,
+      "capabilities": {},
+      "headless": false,
+      "id": "10a7ec06-3ea2-192b-88de-42b832723dc8",
+      "name": "New Endpoint",
+      "type": "local",
+      "browserName": "chrome"
+    }
+  ]
+}
